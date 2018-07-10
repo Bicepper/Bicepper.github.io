@@ -3,7 +3,19 @@
 - 氏名：岡本 紳平（オカモト　シンペイ）
 - BLOG：https://muscle-developer.com/
 
-### Markdown
+## 職務経歴
+
+1. WEBデザイナー：5年
+2. WEBアプリ開発：2年
+
+## スキル
+
+### HTML
+- 経験年数7年。HTML5のタグは習得中であるが、それ以外は概ね読み書き可能。
+
+### CSS
+- 経験年数7年。CSS3のプロパティは習得中であるが、それ以外は概ね読み書き可能。
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
