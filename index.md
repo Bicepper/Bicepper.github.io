@@ -1,8 +1,7 @@
 ## 自己紹介
 
-氏名：岡本 紳平（オカモト　シンペイ）
-
-BLOG：https://muscle-developer.com/
+- 氏名：岡本 紳平（オカモト　シンペイ）
+- BLOG：https://muscle-developer.com/
 
 ### Markdown
 
