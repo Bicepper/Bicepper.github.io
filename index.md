@@ -1,9 +1,9 @@
 ## 自己紹介
 
 - 氏名：岡本 紳平（オカモト　シンペイ）
-- BLOG：https://muscle-developer.com/
+- BLOG：[https://muscle-developer.com/](https://muscle-developer.com/)
 
-## 職務経歴
+## 職務経歴（概要）
 
 1. WEBデザイナー：5年
 2. WEBアプリ開発：2年
@@ -23,7 +23,7 @@
 - 経験年数1年。Ver.5を経験。cakePHP（Ver.2）をメインに開発。現職のWEBアプリケーションは全てcakePHPで開発。
 
 ### Python
-- 個人学習1年。Ver.3を経験。Django（Ver.2）をメインに開発。
+- 個人学習1年。Ver.3を経験。Django（Ver.2）をメインに個人的なブログ、WEBアプリケーションを開発。
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
