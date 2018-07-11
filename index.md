@@ -2,6 +2,7 @@
 
 - 氏名：岡本 紳平（オカモト　シンペイ）
 - BLOG：[https://muscle-developer.com/](https://muscle-developer.com/)
+- 趣味：コーディング、プログラミング、筋力トレーニング
 
 ## 職務経歴（概要）
 
