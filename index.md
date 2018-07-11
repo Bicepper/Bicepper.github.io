@@ -16,6 +16,11 @@
 ### CSS
 - 経験年数7年。CSS3のプロパティは習得中であるが、それ以外は概ね読み書き可能。
 
+### javascript
+- 経験年数2年。フレームワークはjQueryをメインに開発。一部ではAngularを使用。個人的な範囲ではVueを入門程度で使用。
+
+### php
+- 経験年数1年。cakePHPをメインに開発。
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
