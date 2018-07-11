@@ -20,7 +20,10 @@
 - 経験年数2年。フレームワークはjQueryをメインに開発。一部ではAngularを使用。個人的な範囲ではVueを入門程度で使用。
 
 ### php
-- 経験年数1年。cakePHPをメインに開発。
+- 経験年数1年。Ver.5を経験。cakePHP（Ver.2）をメインに開発。現職のWEBアプリケーションは全てcakePHPで開発。
+
+### Python
+- 個人学習1年。Ver.3を経験。Django（Ver.2）をメインに開発。
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
