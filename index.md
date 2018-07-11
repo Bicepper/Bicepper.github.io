@@ -26,6 +26,12 @@
 ### Python
 - 個人学習1年。Ver.3を経験。Django（Ver.2）をメインに個人的なブログ、WEBアプリケーションを開発。
 
+## 職務経歴（詳細）
+
+
+
+
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
