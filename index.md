@@ -28,8 +28,13 @@
 
 ## 職務経歴（詳細）
 
+1. 株式会社CMサイト（2017年2月〜）
+2017年10月頃まではコーディング、javascriptをメインに担当。それ以降は、バックエンドのcakePHP、AWS等も担当。
+- 自社ゲーム開発(1)：フロント（HTML、CSS、javascript）を担当
+- 新規WEBサービス開発：フロント（HTML、CSS、javascript）を担当
+- 自社ゲーム開発(2)：フロント（HTML、CSS、javascript） + バックエンド（cakePHP、AWS）を担当 
 
-
+2. 株式会社ベストプランニング（2014年12月〜2017年1月）
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
